@@ -1,9 +1,9 @@
 def new_hash
-  hash.new
+  Hash.new
 end
 
 def my_hash
-  # return a valid hash with any key/value pair of your choice
+  Hash.new(key:,element)
 end
 
 def pioneer
